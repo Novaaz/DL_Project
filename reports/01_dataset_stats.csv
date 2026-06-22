@@ -1,0 +1,4 @@
+split,total,n_human,pct_human,n_ai,pct_ai
+Train,6772,3384,50.0,3388,50.0
+Val,1451,725,50.0,726,50.0
+Test,1452,725,49.9,727,50.1

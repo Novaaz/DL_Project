@@ -1,0 +1,2 @@
+model,accuracy,auc,f1,epochs_pretrain,batch_size,proj_dim
+SimCLR_linear_probe,0.7143,0.7816,0.6863,100,128,128
